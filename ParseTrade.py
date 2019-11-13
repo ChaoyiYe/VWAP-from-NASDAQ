@@ -1,5 +1,4 @@
 # 10/10/2019 Chaoyi Ye
-# Trexquant Project
 # Parses trades from NASDAQ_ITCH50 and Calculate VWAP
 import gzip
 import struct
